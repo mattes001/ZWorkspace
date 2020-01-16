@@ -25,7 +25,7 @@ public class AufgabeI {
 		String vorName = "Peter";
 		String nachName = "Müller";
 		
-		System.out.println("Herr " + name + " sein Alter " + alter + " sein Auto kostet: " + auto + "€");
+		System.out.println("Herr " + name + " sein Alter " + alter + " sein Auto kostet: " + auto + "EURO");
 		
 		
 	}
