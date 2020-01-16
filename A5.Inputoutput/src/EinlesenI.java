@@ -18,7 +18,8 @@ public class EinlesenI {
 		System.out.println("Bitte geben Sie Ihr Alter ein: ");
 		int alter = scan2.nextInt();
 		
-		System.out.println("Ihr Name: " + zeichenkette + " Ihr Alter: " + alter);
+		System.out.println("Der Name: " + zeichenkette + " Ihr Alter: " + alter);
+		
 	}
 
 }
